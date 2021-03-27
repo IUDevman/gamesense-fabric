@@ -10,10 +10,10 @@ public class GameSense implements ModInitializer {
 
     public static final String MODNAME = "GameSense";
     public static final String MODID = "gamesense";
-    public static final String MODVER = "fd2.3.0";
+    public static final String MODVER = "df2.3.0";
     /**
      * For Fabric only:
-     * Official release starts with a "f", dev versions start with a "fd" to bypass version check
+     * Official release starts with a "f", dev versions start with a "df" to bypass version check
      */
 
     public static final Logger LOGGER = LogManager.getLogger(MODNAME);
